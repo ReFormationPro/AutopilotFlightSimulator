@@ -1,0 +1,7 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "never"
+    },
+    "editor.formatOnSave": false,
+    "terminal.integrated.scrollback": 10000
+}

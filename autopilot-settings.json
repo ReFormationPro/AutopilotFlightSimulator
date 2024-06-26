@@ -1,0 +1,7 @@
+{
+  "PORT": "/dev/pts/4",
+  "BAUDRATE": 115200,
+  "CHAR_DELAY": 0.001,
+  "FPS": 30,
+  "LOG_LEVEL": "INFO"
+}
