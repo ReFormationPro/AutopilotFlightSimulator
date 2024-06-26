@@ -14,7 +14,7 @@ Plane is at all times either one of the 4 altitude lines. Yellow zones are calle
 
 Plane altitude is controlled by ADC and the plane height only changes while in "ALTITUDE" mode as in the screenshot.
 
-A more detailed explanation on the development process will be provided on my blog in the future.
+A more detailed explanation on the development process is on my blog, [here.](https://medium.com/@oguzhanoztaskin/autopilot-flight-simulator-for-embedded-systems-development-7126a7c206c1).
 
 ## Features
 
